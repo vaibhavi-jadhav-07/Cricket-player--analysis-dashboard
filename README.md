@@ -7,7 +7,7 @@ This dashboard analyzes cricket players based on country, batting hand, and bowl
 
 ## 📄 View Dashboard
 
-👉 [Click here to view PDF](Cricket_Dashboard.pdf)
+👉 [Click here to view PDF](Cricket_Player_Dashboard.pdf)
 
 ## 🛠 Tools Used
 
